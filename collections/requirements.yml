@@ -2,4 +2,4 @@ collections:
   # Install a collection from Ansible Galaxy.
   - name: geerlingguy.php_roles
   #  version: 0.9.3
-  #  source: https://galaxy.ansible.com
+    source: https://demo2.sandbox127.opentlc.com/api/galaxy/content/community/
